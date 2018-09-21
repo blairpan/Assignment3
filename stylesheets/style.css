@@ -1,0 +1,24 @@
+body{
+	background-color:#fffaf9;
+}
+table{
+	border-collapse: collapse;
+	font-family: 'Caveat', cursive;
+}
+caption { 
+    text-align: center;
+   font-size: 30px;
+}
+table,th, td {
+	border: 1px solid #ddd;
+	padding:  15px;
+}
+th,.time{
+	background-color: #fde9e2;
+}
+.course{
+	background-color: #fbddd3;
+}
+.course:hover{
+	background-color: #fbc8b7;
+};
